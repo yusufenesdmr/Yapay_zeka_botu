@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570752635093",
+    "project_id": "staj-c0855",
+    "storage_bucket": "staj-c0855.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570752635093:android:e46bc709bed90b3b62125c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkPtbMn-6-CiCj5BPaDM0PwubWEB_JAFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
